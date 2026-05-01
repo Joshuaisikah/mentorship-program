@@ -42,6 +42,7 @@ The LF Decentralized Trust Mentorship Program provides a structured remote learn
 *   __16 Mar 2026 - 25 Mar 2026__ mentorship project proposal review by LF Decentralized Trust Technical Advisory Council (TAC); mentors or proposal submitters may be asked to clarify or address questions raised by the TAC
     
 *   __31 Mar 2026 - 8 May 2026__ mentee application period on [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/)
+*   __1 May 2026 - 22 May 2026__ all *unpaid* mentorships will be accepting applications until May 22nd.
 *   __11 May 2026 - 22 May 2026__ mentee application review and applicant interview
     
 *   __25 May 2026 - 29 May 2026__ selected mentee notification and acceptance
@@ -60,6 +61,8 @@ Eligible mentees may receive a stipend, calculated using a [tiered structured](h
 * Midterm Stipend -  paid to mentees who are making satisfactory progreess and in good standing as evaluated by mentors during midterm evaluation
 
 * Final Stipend - paid to mentees upon successful project completion as evaluated by mentors and confirmed by program staff.
+
+Please note that any mentorships that are labeled "Unpaid" will not be eligible to receive a stipend.
 
 Additionally, a limited travel fund is set aside to be awarded to up to 5 exceptional mentors and mentees who demonstrate the financial need to travel to an in-person event where they're presenting about their mentorship projects.  
 
