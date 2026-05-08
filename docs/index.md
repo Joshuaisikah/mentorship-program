@@ -43,11 +43,11 @@ The LF Decentralized Trust Mentorship Program provides a structured remote learn
     
 *   __31 Mar 2026 - 11 May 2026__ (applicatioin portal closes at UTC 12:00 PM) mentee application period on [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/)
 *   __1 May 2026 - 22 May 2026__ all *unpaid* mentorships will be accepting applications until May 22nd.
-*   __11 May 2026 - 22 May 2026__ mentee application review and applicant interview
+*   __11 May 2026 - 30 May 2026__ mentee application review and applicant interview
     
-*   __25 May 2026 - 29 May 2026__ selected mentee notification and acceptance
+*   __1 June 2026 - 5 June 2026__ selected mentee notification and acceptance
     
-*   __01 June 2026 - 12 Jun 2026__ 1st 2 weeks of June mentee onboarding/orientation 
+*   __08 June 2026 - 15 Jun 2026__ mentee onboarding/orientation with mentors and program admins 
 *   __15 Jun 2026 - 30 Nov 2026__ mentee/mentor working period (mentees are expected to commit ~12-15 hours a week on a consistent basis during this time) 
 *   __24 Aug 2026 - 31 Aug 2026__ midterm mentee evaluation and report
 *   __15 Nov 2026 - 30 Nov 2026__  final mentee evaluation and report
