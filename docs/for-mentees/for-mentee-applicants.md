@@ -71,7 +71,7 @@ LFX Mentorship, developed by The Linux Foundation, is the portal where the LF De
 
 *   Please review [detailed application instructions](https://docs.linuxfoundation.org/lfx/mentorship/mentees/apply-to-a-project) for additional information about how to apply on LFX Mentorship.
     
-_**All required application materials must be received by May 8th, 2026.**_
+_**All required application materials must be received by May 11th, 2026.**_
     
 Questions? 
 ===========
