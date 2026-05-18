@@ -45,9 +45,9 @@ The LF Decentralized Trust Mentorship Program provides a structured remote learn
 *   __1 May 2026 - 22 May 2026__ all *unpaid* mentorships will be accepting applications until May 22nd.
 *   __11 May 2026 - 30 May 2026__ mentee application review and applicant interview
     
-*   __1 June 2026 - 5 June 2026__ selected mentee notification and acceptance
+*   __1 June 2026 - 5 June 2026__ selected mentee notification and confirmation of acceptance
     
-*   __08 June 2026 - 15 Jun 2026__ mentee onboarding/orientation with mentors and program admins 
+*   __08 June 2026 - 15 Jun 2026__ mentorship onboarding session Fri, June 12 at 14:00 UTC, and mentee and mentor bonding and onboarding
 *   __15 Jun 2026 - 30 Nov 2026__ mentee/mentor working period (mentees are expected to commit ~12-15 hours a week on a consistent basis during this time) 
 *   __24 Aug 2026 - 31 Aug 2026__ midterm mentee evaluation and report
 *   __15 Nov 2026 - 30 Nov 2026__  final mentee evaluation and report
